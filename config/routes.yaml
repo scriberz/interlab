@@ -1,0 +1,4 @@
+# Определение ресурса для маршрутов API пользователей
+api_users:
+    resource: '../src/Controller/UserController.php'
+    type: annotation

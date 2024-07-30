@@ -1,0 +1,14 @@
+# Файлы и папки, которые не нужно отслеживать
+/vendor/
+.env
+.env.local
+.env.*.local
+.phpunit.result.cache
+.idea/
+*.iml
+*.swp
+.DS_Store
+/var/
+/public/bundles/
+/public/assets/
+/public/uploads/
